@@ -1,1 +1,6 @@
+
+.\.venv\Scripts\activate
+python -m venv .venv
+pip install django
 pip install  django-simple-captcha
+pip install mysqlclient
